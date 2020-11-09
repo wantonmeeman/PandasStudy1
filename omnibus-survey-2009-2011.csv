@@ -1,0 +1,19 @@
+year,gender,age_group,knowledge_on_wholegrain,aware_of_transfat
+2009,Overall,Overall,0.359,0.484
+2009,Male,Overall,0.346,0.444
+2009,Male,18 to 29,0.416,0.539
+2009,Male,30 to 49,0.345,0.486
+2009,Male,50 to 69,0.302,0.318
+2009,Female,Overall,0.369,0.52
+2009,Female,18 to 29,0.426,0.667
+2009,Female,30 to 49,0.399,0.565
+2009,Female,50 to 69,0.292,0.368
+2011,Overall,Overall,0.436,0.615
+2011,Male,Overall,0.461,0.609
+2011,Male,18 to 29,0.511,0.678
+2011,Male,30 to 49,0.371,0.473
+2011,Male,50 to 69,0.293,0.394
+2011,Female,Overall,0.412,0.621
+2011,Female,18 to 29,0.453,0.72
+2011,Female,30 to 49,0.355,0.445
+2011,Female,50 to 69,0.272,0.338
